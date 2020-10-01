@@ -1,4 +1,3 @@
-  
 #In The Name of Allah
 
 if __name__ == '__main__':
