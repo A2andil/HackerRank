@@ -6,11 +6,11 @@
 </p>
 
 * [10 Days of Statistics](#10-days-of-statistics)
-* [Algorithms](#algorithms)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Data Structures](#data-structures)
-* [General Programming](#general-programming)
-* [Implementation](#implementation)
-* [Java](#java)
+* [Mathematics](#Mathematics)
+* [Python](#python)
+* [C++](#cpp)
 * [SQL](#sql)
 
 Solutions are coded using Java 8
