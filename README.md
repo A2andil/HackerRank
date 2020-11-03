@@ -13,7 +13,9 @@
 * [C++](#cpp)
 * [SQL](#sql)
 
-Solutions are coded using Java 8
+Solutions are coded using C++
+
+Python solutions are coded using Python
 
 SQL solutions are coded using MySQL
 
